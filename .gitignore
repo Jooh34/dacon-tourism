@@ -3,3 +3,4 @@ image/
 .ipynb_checkpoints/
 
 *.csv
+*.pt
