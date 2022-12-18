@@ -10,4 +10,5 @@ ensemble with DeiT
 
 ## Result
 41th with 0.85189 accuracy
-[Uploading 스크린샷 2022-12-18 오후 10.30.19.png…]
+
+<img width="1038" alt="result" src="https://user-images.githubusercontent.com/15865928/208301178-a7bfb97a-d749-4456-bd47-13578f80cd39.png">
